@@ -301,6 +301,11 @@
 	max-width: 249px;
 	margin-left: 6%;
 }}
+@media screen and (min-width: 300px) and (max-width: 768px)and (orientation: portrait){#myInput2 {
+	min-width: 0px;
+	max-width: 249px;
+	margin-left: 6%;
+}}
 @media screen and (min-width: 300px) and (max-width: 768px) and (orientation: portrait){select.form-control {
 	min-width: 180px;
 	max-width: none !important;
