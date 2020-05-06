@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".tdet").click(function(){$("#detalle_tarjetas").fadeIn("slow")}),$("#detalle_tarjetas").click(function(){$(this).css("display","none")});var a=$(".dlarga").text(),t=$(".dlarga").html();""==a&&""==t||$(".prod_desc").show(),0!=$(".cajaprod").length&&$(".prod_relac").show()});
