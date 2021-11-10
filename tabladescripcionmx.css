@@ -17,7 +17,7 @@ body .sectionContainer{
 }
 @media only screen and (max-width:625px){
     body .sectionContainer{
-        padding:20px 16px 20px 16px
+        padding:20px 16px
     }
 }
 .content,.tableHeader{
@@ -49,7 +49,7 @@ section.specsMain .specsTable{
     }
     section.specsMain .specsTable .content{
         width:100%;
-        padding:15px 0 0 0
+        padding:15px 0 0
     }
 }
 @media only screen and (max-width:625px){
